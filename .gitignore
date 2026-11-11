@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.wav
+*.flac
+*.mp3
+*.aup3
+*.aup3-shm
+*.aup3-wal
+*.csv
+.DS_Store
